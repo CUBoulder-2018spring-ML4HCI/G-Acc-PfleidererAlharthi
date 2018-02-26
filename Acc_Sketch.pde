@@ -46,7 +46,7 @@ class Enemy {
   Enemy(float x, float y) {
     this.x = x;
     this.y = y;
-    location = new PVector(random(600), random(600));
+    location = new PVector(random(125), random(125));
     speed = new PVector(3, -3);
   }
  
