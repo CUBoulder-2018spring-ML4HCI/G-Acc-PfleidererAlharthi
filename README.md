@@ -11,3 +11,6 @@ We decided to use the Tobii Eye Tracker (4C Model) technology to extract the fea
 The maze could definitely be made more challenging using a recursive backtracking algorithm for initialization. Additionally, more layers of gaming could be added by turning the maze into a retina controlled rendition of the cult classic game Pacman.
 
 # Demo Link:
+
+https://youtu.be/RjHmRxi62hE
+
